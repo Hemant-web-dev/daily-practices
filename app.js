@@ -1,6 +1,6 @@
-let reversed = ""
+
 const reversi = (strings) =>{
-    ;
+    let reversed = "";
 for(i=strings.length-1;i>=0;i--){
  reversed += strings[i]
 }
